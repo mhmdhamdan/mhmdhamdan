@@ -8,22 +8,35 @@ I'm passionate about software development and enjoy building real-world applicat
 
 ## 💻 Technologies & Tools
 
+### 👨‍💻 Programming Languages
 - Java
-- Android (Java & XML)
+- JavaScript
 - PHP
-- Laravel
-- Node.js
-- Express.js
+- C++
+
+### 📱 Mobile Development
+- Android (Java & XML)
+
+### 🌐 Web Development
 - HTML5
 - CSS3
-- JavaScript
+- Node.js
+- Express.js
+- Laravel
+
+### 🗄️ Databases
 - MySQL
 - SQLite
-- Git & GitHub
+
+### 🔧 Tools & Version Control
+- Git
+- GitHub
+- Figma
+
+### 🤖 IoT & Embedded Systems
 - Raspberry Pi
 - MQTT
 - HiveMQ
-- Figma
 
 ---
 
